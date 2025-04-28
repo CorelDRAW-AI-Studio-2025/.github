@@ -63,7 +63,7 @@ Created for both **beginner designers** and **seasoned pros**, this studio offer
 ### 🖼 Visual Preview
 
 <!-- ПОДСКАЗКА НА РУССКОМ: Вставьте прямую ссылку на первое изображение (например, https://i.imgur.com/xyz789.jpg) вместо INSERT_IMAGE_LINK_HERE_1. Это должен быть скриншот интерфейса AI Vector Art Generator -->
-![AI Vector Art Generator](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrlZG4D_YI_JKQrYxhiva-XqA_8DSaxL5sNA&s)  
+![AI Vector Art Generator](https://ml.globenewswire.com/Resource/Download/9c05058a-e856-498a-88b3-2330c0f33de1)  
 *Create vector graphics from text prompts with AI-driven style adjustments.*
 
 <!-- ПОДСКАЗКА НА РУССКОМ: Вставьте прямую ссылку на второе изображение (например, https://i.imgur.com/pqr456.jpg) вместо INSERT_IMAGE_LINK_HERE_2. Это должен быть скриншот интерфейса Painterly Brush -->
@@ -71,7 +71,7 @@ Created for both **beginner designers** and **seasoned pros**, this studio offer
 *Apply AI-driven brushes with customizable texture and glow.*
 
 <!-- ПОДСКАЗКА НА РУССКОМ: Вставьте прямую ссылку на третье изображение (например, https://i.imgur.com/lmn123.jpg) вместо INSERT_IMAGE_LINK_HERE_3. Это должен быть скриншот интерфейса Print Workflow Optimizer -->
-![Print Workflow Optimizer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYENdchGkV-xDR4RAmu9oWBPSp9O0FwuL3vQ&s)  
+![Print Workflow Optimizer](https://i.ytimg.com/vi/Jru7V6LTfy4/maxresdefault.jpg)  
 *Automate professional PDF outputs with AI-enhanced print settings.*
 
 ---
